@@ -757,7 +757,7 @@ PrefabInstance:
       objectReference: {fileID: 1146143824}
     - target: {fileID: 7481457811902079881, guid: 1d2cf5582c880314ab76bab94054522a, type: 3}
       propertyPath: turningSpeed
-      value: 0.1
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7481457811902079881, guid: 1d2cf5582c880314ab76bab94054522a, type: 3}
       propertyPath: shootingPoint
