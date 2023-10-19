@@ -5,8 +5,9 @@ This is a readME file for my midterm project.
 Things to Know (in order):
 
 Controls (line 12)
-Lore
-Puzzle Instructions
+Lore (line 22)
+Puzzle Instructions (line 30)
+Concept (line 39)
 
 
 Controls:
@@ -34,3 +35,10 @@ are down.
 Level 2 is a bit harder. You need to aim the cannon at the orange wall and shoot at it. If your angle is correct, it will bounce off the wall and into the pins.
 Then, once again, update score once the pins are down.
 
+
+Concept:
+I thought bowling but using a cannon would be pretty funny. So I did just that. If I wanted to pick up this project later and build more things with it, I could add
+more elements, like a wall that takes a shot to break to give the player an easier solution with the second shot. I also thought about adding powerups, like grapeshot 
+or exploding cannon balls. More pins can be added to make it more challenging, and of course if you want to give the player more shots, that is also an option.
+The infamous bowling alley screens could be added as well, which would be pretty entertaining to have over the solid background colors. However, with this game made, the
+foundations are set for building more for this game in the future.
